@@ -1,0 +1,5 @@
+router bgp 65000
+neighbor 'ipaddr4'] + " remote-as " + str(i['asn']) + "\n")
+                f.write("neighbor " + i['ipaddr6'] + " remote-as " + str(i['asn']) + "\n")
+                f.write("neighbor " + i['ipaddr4'] + " description " + i['name'] + "\n")
+                f.write("neighbor " + i['ipaddr6'] + " description " + i['name'] + "\n")
