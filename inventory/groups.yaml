@@ -1,0 +1,5 @@
+---
+global:
+    data:
+        domain: global.local
+        asn: 100
