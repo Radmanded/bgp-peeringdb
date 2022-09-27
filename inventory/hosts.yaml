@@ -1,0 +1,9 @@
+---
+
+R1:
+    hostname: 10.37.129.5
+    interfaces:
+        Loopback0:
+            - name: Loopback0
+              ip: "10.1.1.1"
+              description: "Loopback"

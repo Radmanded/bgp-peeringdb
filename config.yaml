@@ -1,0 +1,11 @@
+---
+inventory:
+    plugin: SimpleInventory
+    options:
+        host_file: "/Users/rubendedman/PycharmProjects/bgp-peeringdb/inventory/hosts.yaml"
+        group_file: "/Users/rubendedman/PycharmProjects/bgp-peeringdb/inventory/groups.yaml"
+        defaults_file: "/Users/rubendedman/PycharmProjects/bgp-peeringdb/inventory/defaults.yaml"
+runner:
+    plugin: threaded
+    options:
+        num_workers: 10
