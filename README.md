@@ -12,5 +12,8 @@ https://nornir.tech/nornir_jinja2/html/
 
 https://nornir.readthedocs.io/en/latest/api/index.html
 
+** Read Documentation to understand Nornir! **
+ 
+https://nornir.readthedocs.io/en/latest/index.html
 
 <\details>
